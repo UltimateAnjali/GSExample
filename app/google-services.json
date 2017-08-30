@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1045754905269",
+    "project_id": "firebase-gsexample"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045754905269:android:ccc4a72e439f342a",
+        "android_client_info": {
+          "package_name": "com.example.gsexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045754905269-vqbce67e2div8hf3sodg9lvrrldf2bhs.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1045754905269-1fl7htfm9rnadlomi7bmh0gdf8dgib2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gsexample",
+            "certificate_hash": "ce1ce6e416fc4f6481ce1cf51a29d7cf7c56bbad"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaQaX1M5hzAgCTLzEafSekpmXhTb4rbKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
